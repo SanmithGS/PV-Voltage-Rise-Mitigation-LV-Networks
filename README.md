@@ -41,7 +41,7 @@ PV-Voltage-Rise-Mitigation-LV-Networks/
 ├── MATLAB/                        # Simulation scripts
 │   └── TEM_Course_Project_V6.m    # Main simulation file — all 6 strategies
 ├── Paper/                         # Report
-├   └── IEEE_style_report
+|   └── IEEE_style_report
 ├── Results/                       # Simulation output plots
 │   ├── voltage_profile_all_strategies.png
 │   ├── hosting_capacity_bar_chart.png
